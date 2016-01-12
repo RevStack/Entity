@@ -1,6 +1,6 @@
 {
   "name": "RevStack.Entity",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Entity Framework implementation of the RevStack c# repository pattern",
   "main": "RevStack.Entity.sin",
   "scripts": {

@@ -28,18 +28,21 @@ namespace RevStack.Entity
         public TEntity Add(TEntity entity)
         {
             _context.Entry(entity).State = EntityState.Added;
+            _context.SaveChanges();
             return entity;
         }
 
         public TEntity Update(TEntity entity)
         {
             _context.Entry(entity).State= EntityState.Modified;
+            _context.SaveChanges();
             return entity;
         }
 
         public void Delete(TEntity entity)
         {
             _context.Entry(entity).State = EntityState.Deleted;
+            _context.SaveChanges();
         }
 
     }
