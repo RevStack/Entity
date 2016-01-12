@@ -1,0 +1,12 @@
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\bin\Debug\RevStack.Entity.dll.config
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\bin\Debug\RevStack.Entity.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\bin\Debug\RevStack.Entity.pdb
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\bin\Debug\RevStack.Pattern.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\bin\Debug\RevStack.Pattern.pdb
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\obj\Debug\RevStack.Entity.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\obj\Debug\RevStack.Entity.dll
+\\psf\Home\Documents\Development\mono\RevStack\RevStack.Entity\RevStack.Entity\obj\Debug\RevStack.Entity.pdb
