@@ -1,6 +1,6 @@
 {
   "name": "RevStack.Entity",
-  "version": "0.9.1",
+  "version": "1.0.2",
   "description": "Entity Framework implementation of the RevStack c# repository pattern",
   "main": "RevStack.Entity.sln",
   "scripts": {
